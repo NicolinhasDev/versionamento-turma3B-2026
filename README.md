@@ -1,7 +1,7 @@
 Nome: Rodrigo Raimundo
 Frase: Eu não sabo.
 
-Nome: Yamil Josué
+# Nome: Yamil Josué
 Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
 
 Nome: jonathan
