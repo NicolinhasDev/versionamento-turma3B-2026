@@ -1,2 +1,3 @@
-# 💫 About Me:
-Desenvolvedor fullstack com experiência em aplicações web, atuando em ambos front-end e back-end. Trabalhei com tecnologias como HTML, CSS, JavaScript, PHP, MySQL e consumo de API, assim como automações com cron jobs. Possuo um perfil proativo, gosto de entender o problema a fundo e desenvolver solucões eficientes e bem estruturadas. Estou constantemente buscando me desenvolver, aprender novas tecnologias e entregar valores reais através de código. Teste 1
+# 💫 sobre nós:
+Nome: Matheus Morais 
+frase: seja humilde até o fim,porque humildade é tudo
