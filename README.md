@@ -28,10 +28,9 @@ Frase: They don't know that we know they know we know.
 
 Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
-<<<<<<< HEAD
 
 Nome: Thayana
 Frase: Maktub
 
-=======
->>>>>>> 3733806fb7a2519ab64d70dcffb72105389227fe
+Nome:Rafaela
+Frase:Nem tudo precisa de resposta agora!
