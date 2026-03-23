@@ -6,9 +6,10 @@ Nome: Yamil Josué
 Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
 
 Nome: jonathan
-Frase: Deus é fiel
+Frase: Deus é fiel.
+
 Nome: Matheus Aliaga
-Frase: Mais sensual que eu não há ninguem
+Frase: Mais sensual que eu não há ninguem.
 # 💫 sobre nós:
 Nome: Matheus Morais 
 frase: seja humilde até o fim,porque humildade é tudo
@@ -18,6 +19,7 @@ frase: Meu nome é Yoshikage Kira. Tenho 33 anos. Minha casa fica na parte norde
 
 Nome: AndrézinGameplays2008
 Frase: Puta merda! Mataram o Kenny!!!
+
 Nome: Enzo Thaylor
 Frase: Gnaarly!👽
 # 💫 Sobre nós:
