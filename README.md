@@ -39,7 +39,6 @@ Frase guia do elemento de Sangue
 Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
 Frase guia do elemento de Morte
 
-
 Saber tudo é perder tudo.
 Frase guia do elemento de Conhecimento
 
