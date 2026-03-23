@@ -9,3 +9,8 @@ Agora deixa as pessoas botarem o dedo na sua cara e dizer que você não é bom.
 Você, eu, ninguém vai bater tão duro como a vida. Mas não se trata de bater duro. Se trata de quanto você aguenta apanhar e seguir em frente. O quanto você é capaz de aguentar e continuar tentando. É assim que se consegue vencer.
 
 Agora se você sabe o seu valor, então vá atrás do que você merece. Mas tem que ter disposição para apanhar. E nada de apontar dedos, dizer que você não consegue por causa dele, dela ou de quem seja. Só covardes fazem isso e você não é covarde. Você é melhor do que isso!
+Nome: Prof. Nicolas
+Frase: They don't know that we know they know we know.
+
+Nome: Victor Monteiro
+Frase: Antigravity é um bom IDE.
