@@ -60,7 +60,7 @@ Frase guia do elemento de Medo
 Nome: Thayana
 Frase: Maktub
 
-<<<<<<< HEAD
+<<<<<<< 
 Nome:Rafaela
 Frase:Nem tudo precisa de resposta agora!
 =======
