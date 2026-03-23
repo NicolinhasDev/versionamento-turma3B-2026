@@ -28,6 +28,32 @@ Frase: They don't know that we know they know we know.
 
 Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
+<<<<<<< HEAD
 
 Nome: Nicollas C.
 Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
+Frase guia do elemento de Sangue
+
+Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+Frase guia do elemento de Morte
+
+
+Saber tudo é perder tudo.
+Frase guia do elemento de Conhecimento
+
+O Caos é inevitável.
+Frase guia do elemento de Energia
+
+O Medo é infinito.
+Frase guia do elemento de Medo
+
+
+=======
+<<<<<<< HEAD
+
+Nome: Thayana
+Frase: Maktub
+
+=======
+>>>>>>> 3733806fb7a2519ab64d70dcffb72105389227fe
+>>>>>>> 8a8863a43a6efdeb3e3009736ead8be7ffe6f57a
