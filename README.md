@@ -1,8 +1,12 @@
 # 💫 About Me:
 Nome: Rodrigo Raimundo
 Frase: Eu não sabo.
-nome: Yamil Josué
-frase: por que "tudo junto" é separado é "separado" é tudo junto?
+<<<<<<< HEAD
+
+Nome: Yamil Josué
+Frase: por que "tudo junto" é separado é "separado" é tudo junto?
+
+=======
 Nome: jonathan
 Frase: Deus é fiel
 # 💫 sobre nós:
