@@ -3,7 +3,7 @@ Nome: Rodrigo Raimundo
 Frase: Eu não sabo.
 
 Nome: Yamil Josué
-Frase: por que "tudo junto" é separado é "separado" é tudo junto?
+Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
 
 Nome: jonathan
 Frase: Deus é fiel
