@@ -10,6 +10,8 @@ Frase: por que "tudo junto" é separado é "separado" é tudo junto?
 =======
 Nome: jonathan
 Frase: Deus é fiel
+Nome: Matheus Aliaga
+Frase: Mais sensual que eu não há ninguem
 # 💫 sobre nós:
 Nome: Matheus Morais 
 frase: seja humilde até o fim, porque humildade é tudo
@@ -61,7 +63,7 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 <h3>O Medo é infinito.
 <p>Frase guia do elemento de Medo</h3></p>
 
-# fim
+# The End
 
 Nome: Thayana
 Frase: Maktub
