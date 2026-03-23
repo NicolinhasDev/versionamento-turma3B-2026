@@ -32,8 +32,12 @@ Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
 
 <<<<<<< HEAD
+# Sr.Agente208
+=======
+<<<<<<< HEAD
 Nome: Phelipe Eduardo
 Frase: Terra a VISTA MARUJOOOOS!!!
+=======
 =======
 Nome: Nicollas C.
 Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
@@ -50,15 +54,13 @@ Frase guia do elemento de Energia
 
 O Medo é infinito.
 Frase guia do elemento de Medo
+====
 
-
-=======
-<<<<<<< HEAD
 
 Nome: Thayana
 Frase: Maktub
 
-<<<<<<< HEAD
+<<<<<<< 
 Nome:Rafaela
 Frase:Nem tudo precisa de resposta agora!
 =======
