@@ -49,7 +49,9 @@ Frase: Terra a VISTA MARUJOOOOS!!!
     color: blue; /* cor da fonte */
     font-family: Arial, sans-serif; /* fonte */
   }
+</style>
 
+<body>
 <h1>Nome: Nicollas C. </h1>
 <h2>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
 <p>Frase guia do elemento de Sangue</h2></p>
@@ -66,7 +68,8 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 <h3>O Medo é infinito.
 <p>Frase guia do elemento de Medo</h3></p>
 
-</style>
+</body>
+
 # The End
 
 Nome: Thayana
