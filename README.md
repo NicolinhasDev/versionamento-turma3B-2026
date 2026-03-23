@@ -7,6 +7,7 @@ Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
 
 Nome: jonathan
 Frase: Deus é fiel.
+
 Nome: Matheus Aliaga
 Frase: Mais sensual que eu não há ninguem.
 # 💫 sobre nós:
