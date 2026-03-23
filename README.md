@@ -1,3 +1,3 @@
 # 💫 Sobre nós:
-Nome: Prof. Nicolas
-Frase: They don't know that we know they know we know.
+Nome: Julio Cesar Nunes Sousa Rego
+Frase: Não adianta fazer coisas ruins, e esperar que coisas boas aconteçam com voce
