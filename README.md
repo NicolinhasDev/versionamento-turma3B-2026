@@ -67,8 +67,6 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 <h3>O Medo é infinito.
 <p>Frase guia do elemento de Medo</h3></p>
 
-</body>
-
 # The End
 
 Nome: Thayana
