@@ -4,7 +4,7 @@ Frase: Eita bixo sabido
 nome: Yamil Josué
 frase: por que "tudo junto" é separado é "separado" é tudo junto?
 # Nome: Rodrigo Raimundo
-# Frase: Eu não sabo.
+# Frase: Eita bixo sabido
 
 # Nome: Yamil Josué
 # Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
