@@ -40,21 +40,21 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 =======
 
 # Sr.Agente208
-<title>Nome: Nicollas C. </title>
-<h1>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
-Frase guia do elemento de Sangue</h1>
+<h1>Nome: Nicollas C. </h1>
+<h2>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
+Frase guia do elemento de Sangue</h2>
 
-<h2>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
-Frase guia do elemento de Morte</h2>
+<h3>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+Frase guia do elemento de Morte</h3>
 
-<h2>Saber tudo é perder tudo.
-Frase guia do elemento de Conhecimento</h2>
+<h3>Saber tudo é perder tudo.
+Frase guia do elemento de Conhecimento</h3>
 
-<h2>O Caos é inevitável.
-Frase guia do elemento de Energia,</h2>
+<h3>O Caos é inevitável.
+Frase guia do elemento de Energia,</h3>
 
-<h2>O Medo é infinito.
-Frase guia do elemento de Medo</h2>
+<h3>O Medo é infinito.
+Frase guia do elemento de Medo</h3>
 
 
 Nome: Thayana
