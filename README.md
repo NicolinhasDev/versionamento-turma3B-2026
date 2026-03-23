@@ -45,16 +45,16 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 <p>Frase guia do elemento de Sangue</h2></p>
 
 <h3>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
-Frase guia do elemento de Morte</h3>
+<p>Frase guia do elemento de Morte</h3></p>
 
 <h3>Saber tudo é perder tudo.
-Frase guia do elemento de Conhecimento</h3>
+<p>Frase guia do elemento de Conhecimento</h3></p>
 
 <h3>O Caos é inevitável.
-Frase guia do elemento de Energia,</h3>
+<p>Frase guia do elemento de Energia,</h3></p>
 
 <h3>O Medo é infinito.
-Frase guia do elemento de Medo</h3>
+<p>Frase guia do elemento de Medo</h3></p>
 
 
 Nome: Thayana
