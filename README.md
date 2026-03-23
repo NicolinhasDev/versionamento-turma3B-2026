@@ -32,6 +32,7 @@ Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
 <<<<<<< HEAD
 
+# Sr.Agente208
 Nome: Nicollas C.
 Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
 Frase guia do elemento de Sangue
