@@ -32,29 +32,29 @@ Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
 
 <<<<<<< HEAD
-# Sr.Agente208
+
 =======
 <<<<<<< HEAD
 Nome: Phelipe Eduardo
 Frase: Terra a VISTA!!!
 =======
-=======
-Nome: Nicollas C.
-Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
-Frase guia do elemento de Sangue
 
-Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
-Frase guia do elemento de Morte
+# Sr.Agente208
+<title>Nome: Nicollas C. </title>
+<h1>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
+Frase guia do elemento de Sangue</h1>
 
-Saber tudo é perder tudo.
-Frase guia do elemento de Conhecimento
+<h2>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+Frase guia do elemento de Morte</h2>
 
-O Caos é inevitável.
-Frase guia do elemento de Energia
+<h2>Saber tudo é perder tudo.
+Frase guia do elemento de Conhecimento</h2>
 
-O Medo é infinito.
-Frase guia do elemento de Medo
-====
+<h2>O Caos é inevitável.
+Frase guia do elemento de Energia,</h2>
+
+<h2>O Medo é infinito.
+Frase guia do elemento de Medo</h2>
 
 
 Nome: Thayana
