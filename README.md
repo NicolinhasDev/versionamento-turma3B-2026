@@ -38,7 +38,6 @@ Frase: Antigravity é um bom IDE.
 Nome: Phelipe Eduardo
 Frase: Terra a VISTA!!!
 =======
->>>>>>> 915bee08beea536a1367d1740b43ef57fb31e112
 Nome: Nicollas C.
 Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
 Frase guia do elemento de Sangue
