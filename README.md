@@ -4,3 +4,7 @@ Frase: They don't know that we know they know we know.
 
 Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
+
+Nome: Thay
+Frase: Maktub.
+
