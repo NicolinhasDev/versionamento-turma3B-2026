@@ -11,7 +11,7 @@ Nome: jonathan
 Frase: Deus é fiel
 # 💫 sobre nós:
 Nome: Matheus Morais 
-frase: seja humilde até o fim,porque humildade é tudo
+frase: seja humilde até o fim, porque humildade é tudo
 Nome: AndrézinGameplays2008
 Frase: Puta merda! Mataram o Kenny!!!
 Nome: Enzo Thaylor
@@ -34,31 +34,49 @@ Frase: They don't know that we know they know we know.
 
 Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
+
 <<<<<<< HEAD
-
-Nome: Nicollas C.
-Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
-Frase guia do elemento de Sangue
-
-Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
-Frase guia do elemento de Morte
-
-Saber tudo é perder tudo.
-Frase guia do elemento de Conhecimento
-
-O Caos é inevitável.
-Frase guia do elemento de Energia
-
-O Medo é infinito.
-Frase guia do elemento de Medo
-
 
 =======
 <<<<<<< HEAD
+Nome: Phelipe Eduardo
+Frase: Terra a VISTA MARUJOOOOS!!!
+=======
+
+# Sr.Agente208
+<h1>Nome: Nicollas C. </h1>
+<h2>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
+<p>Frase guia do elemento de Sangue</h2></p>
+
+<h3>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+<p>Frase guia do elemento de Morte</h3></p>
+
+<h3>Saber tudo é perder tudo.
+<p>Frase guia do elemento de Conhecimento</h3></p>
+
+<h3>O Caos é inevitável.
+<p>Frase guia do elemento de Energia,</h3></p>
+
+<h3>O Medo é infinito.
+<p>Frase guia do elemento de Medo</h3></p>
+
+# fim
 
 Nome: Thayana
 Frase: Maktub
 
+<<<<<<< 
+Nome:Rafaela
+Frase:Nem tudo precisa de resposta agora!
+=======
 =======
 >>>>>>> 3733806fb7a2519ab64d70dcffb72105389227fe
 >>>>>>> 8a8863a43a6efdeb3e3009736ead8be7ffe6f57a
+>>>>>>> 67ce331179a3d1333653e36f8374496b8f885a84
+<<<<<<< HEAD
+
+Nome: Matheus Bassi Tomé
+Frase: faaalaaa pessoal, eu sou jazzghost e no video de hoje galara nós vamos construir uma casa moderna.
+=======
+>>>>>>> 31126f97f88fb6ce3e48aaa26fcb013fabcfa748
+>>>>>>> 69fe94e019864cb0cf409e96835a0c2d3f43e7cc
