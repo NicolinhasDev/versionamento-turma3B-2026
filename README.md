@@ -1,4 +1,6 @@
 # 💫 About Me:
+Nome: Rodrigo Raimundo
+Frase: Eu não sabo.
 nome: Yamil Josué
 frase: por que "tudo junto" é separado é "separado" é tudo junto?
 Nome: jonathan
@@ -29,8 +31,34 @@ Frase: They don't know that we know they know we know.
 Nome: Victor Monteiro
 Frase: Antigravity é um bom IDE.
 
+Nome: Nicollas C.
+Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
+Frase guia do elemento de Sangue
+
+Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
+Frase guia do elemento de Morte
+
+Saber tudo é perder tudo.
+Frase guia do elemento de Conhecimento
+
+O Caos é inevitável.
+Frase guia do elemento de Energia
+
+O Medo é infinito.
+Frase guia do elemento de Medo
+
+
+=======
+<<<<<<< HEAD
+
 Nome: Thayana
 Frase: Maktub
 
+<<<<<<< HEAD
 Nome:Rafaela
 Frase:Nem tudo precisa de resposta agora!
+=======
+=======
+>>>>>>> 3733806fb7a2519ab64d70dcffb72105389227fe
+>>>>>>> 8a8863a43a6efdeb3e3009736ead8be7ffe6f57a
+>>>>>>> 67ce331179a3d1333653e36f8374496b8f885a84
