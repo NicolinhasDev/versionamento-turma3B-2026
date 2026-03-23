@@ -1,14 +1,14 @@
 # 💫 About Me:
 Nome: Rodrigo Raimundo
 Frase: Eu não sabo.
-<<<<<<< HEAD
 
 Nome: Yamil Josué
 Frase: por que "tudo junto" é separado é "separado" é tudo junto?
 
-=======
 Nome: jonathan
 Frase: Deus é fiel
+Nome: Matheus Aliaga
+Frase: Mais sensual que eu não há ninguem
 # 💫 sobre nós:
 Nome: Matheus Morais 
 <<<<<<< HEAD
