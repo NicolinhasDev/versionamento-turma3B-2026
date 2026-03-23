@@ -1,5 +1,5 @@
-Nome: Rodrigo Raimundo
-Frase: Eu não sabo.
+# Nome: Rodrigo Raimundo
+# Frase: Eu não sabo.
 
 # Nome: Yamil Josué
 Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
