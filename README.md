@@ -42,7 +42,7 @@ Frase: Terra a VISTA MARUJOOOOS!!!
 # Sr.Agente208
 <h1>Nome: Nicollas C. </h1>
 <h2>Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
-Frase guia do elemento de Sangue</h2>
+<p>Frase guia do elemento de Sangue</h2></p>
 
 <h3>Tudo tem um começo e um fim, e o Tempo leva todas as coisas. Nada que é levado pela Morte pode voltar ao que era antes.
 Frase guia do elemento de Morte</h3>
