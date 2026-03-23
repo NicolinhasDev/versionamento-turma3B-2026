@@ -1,4 +1,3 @@
-# 💫 About Me:
 Nome: Rodrigo Raimundo
 Frase: Eu não sabo.
 
@@ -10,7 +9,7 @@ Frase: Deus é fiel.
 
 Nome: Matheus Aliaga
 Frase: Mais sensual que eu não há ninguem.
-# 💫 sobre nós:
+
 Nome: Matheus Morais 
 frase: seja humilde até o fim,porque humildade é tudo
 
@@ -22,7 +21,7 @@ Frase: Puta merda! Mataram o Kenny!!!
 
 Nome: Enzo Thaylor
 Frase: Gnaarly!👽
-# 💫 Sobre nós:
+
 Nome: Julio Cesar Nunes Sousa Rego
 Frase: Não adianta fazer coisas ruins, e esperar que coisas boas aconteçam com você.
 
