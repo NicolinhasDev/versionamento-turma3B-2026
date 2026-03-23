@@ -62,3 +62,6 @@ Frase:Nem tudo precisa de resposta agora!
 >>>>>>> 3733806fb7a2519ab64d70dcffb72105389227fe
 >>>>>>> 8a8863a43a6efdeb3e3009736ead8be7ffe6f57a
 >>>>>>> 67ce331179a3d1333653e36f8374496b8f885a84
+
+Nome: Matheus Bassi Tomé
+Frase: faaalaaa pessoal, eu sou jazzghost e no video de hoje galara nós vamos construir uma casa moderna.
