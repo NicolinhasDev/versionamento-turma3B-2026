@@ -2,7 +2,7 @@
 # Frase: Eita bixo sabido
 
 # Nome: Yamil Josué
-# Frase: Por que "tudo junto" é separado é "separado" é tudo junto?
+# Frase: Por que separado se escreve tudo junto e tudo junto se escreve separado?
 
 # Nome: jonathan
 # Frase: Deus é fiel.
