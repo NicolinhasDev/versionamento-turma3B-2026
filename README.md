@@ -1,6 +1,11 @@
 # 💫 About Me:
 nome: Yamil Josué
 frase: por que "tudo junto" é separado é "separado" é tudo junto?
+Nome: jonathan
+Frase: Deus é fiel
+# 💫 sobre nós:
+Nome: Matheus Morais 
+frase: seja humilde até o fim,porque humildade é tudo
 Nome: AndrézinGameplays2008
 Frase: Puta merda! Mataram o Kenny!!!
 Nome: Enzo Thaylor
