@@ -19,6 +19,7 @@ frase: Meu nome é Yoshikage Kira. Tenho 33 anos. Minha casa fica na parte norde
 
 Nome: AndrézinGameplays2008
 Frase: Puta merda! Mataram o Kenny!!!
+
 Nome: Enzo Thaylor
 Frase: Gnaarly!👽
 # 💫 Sobre nós:
