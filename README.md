@@ -1,7 +1,13 @@
 # 💫 About Me:
 Nome: Rodrigo Raimundo
 Frase: O que sabemos é uma gota, o que ignoramos é um oceano.
+Nome: AndrézinGameplays2008
+Frase: Puta merda! Mataram o Kenny!!!
+Nome: Enzo Thaylor
+Frase: Gnaarly!👽
 # 💫 Sobre nós:
+Nome: Julio Cesar Nunes Sousa Rego
+Frase: Não adianta fazer coisas ruins, e esperar que coisas boas aconteçam com voce
 Nome: Vinícius
 Frase: Você não vai acreditar. Mas você cabia aqui. Eu segurava você e dizia “Esse menino vai ser o melhor menino do mundo. Esse menino vai ser melhor do que qualquer um que conhecemos.”. E você cresceu bom, maravilhoso.
 
