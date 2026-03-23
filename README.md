@@ -33,7 +33,7 @@ Frase: Antigravity é um bom IDE.
 
 <<<<<<< HEAD
 Nome: Phelipe Eduardo
-Frase: Terra a VISTA!!!
+Frase: Terra a VISTA MARUJOOOOS!!!
 =======
 Nome: Nicollas C.
 Frase: Tudo começa pelo Sangue. O Sangue é o fluxo que banha a eternidade do Outro Lado.
