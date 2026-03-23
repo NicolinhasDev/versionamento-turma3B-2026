@@ -55,8 +55,7 @@ Frase guia do elemento de Energia
 O Medo é infinito.
 Frase guia do elemento de Medo
 ====
-=========
-<<<<<<< HEAD
+
 
 Nome: Thayana
 Frase: Maktub
