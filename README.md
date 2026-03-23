@@ -25,6 +25,7 @@ Frase: Gnaarly!👽
 # 💫 Sobre nós:
 Nome: Julio Cesar Nunes Sousa Rego
 Frase: Não adianta fazer coisas ruins, e esperar que coisas boas aconteçam com voce
+
 Nome: Vinícius
 Frase: Você não vai acreditar. Mas você cabia aqui. Eu segurava você e dizia “Esse menino vai ser o melhor menino do mundo. Esse menino vai ser melhor do que qualquer um que conhecemos.”. E você cresceu bom, maravilhoso.
 
