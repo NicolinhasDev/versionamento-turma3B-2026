@@ -98,7 +98,7 @@ Disponibilidade ( Availability):
 
 - Garante o uso de dados a autorizados na hora certa.
 
-- Previne quedas de redes e ataques de negação de servi
+- Previne quedas de redes e ataques de negação de servidor
 
 
 
