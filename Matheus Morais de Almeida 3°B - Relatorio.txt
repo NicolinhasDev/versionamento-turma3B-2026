@@ -1,0 +1,35 @@
+NOME: Matheus Morais de Almeida 3°B
+
+
+Relatorio de versionamento de código.
+
+
+O que eu lembro:
+
+O que é Versionamento de Código
+O versionamento de código é o processo de gerenciar e rastrear todas as alterações feitas nos arquivos de um projeto de software ao longo do seu ciclo de vida. Ele funciona como uma certidão de nascimento e um diário de bordo do sistema, documentando cada modificação, por quem foi feita e o motivo.
+
+Repositorio - É o local onde o Git armazena todos os arquivos de um projeto, além de todo o histórico de alterações feitas neles.
+
+GitHub - O GitHub é uma plataforma que guarda o código-fonte e arquivos em nuvem que utiliza o sistema de controle de versão Git.
+
+Repositório Local - Fica armazenado diretamente no disco rígido do computador do desenvolvedor. É onde o código é escrito, modificado e testado. Funciona totalmente offline.
+
+Repositório Remoto - Fica guardado em um servidor na internet ou rede interna (como GitHub, GitLab ou Bitbucket). Ele serve como o ponto central para a equipe compartilhar o código, fazer backups e centralizar a versão oficial do projeto.
+
+
+COMMIT - Serve para salvar e alterar dados.
+PUSH - Subir algo no arquivo.
+PULL - É o inverso do PUSH.
+GIT - Registra cada alteração que fez projeto e mostra quem fez a alteração,quando foi feita e o que foi alterado do código.
+GIT CLONE - cria um clone do seu repositorio.
+GIT ADD - Adiciona os arquivos na fila para o commit.
+GIT PUSH - Envia as alterações locais para o remoto.
+GIT PULL - Puxa as atualizações do nosso repositorio remoto para o local.
+GIT BRANCH - Cria uma nova BRANCH
+
+BRANCH -  é uma linha de desenvolvimento separada dentro do projeto.
+MAIN / MASTER - Código que está rodando (o aplicativo que usa).
+
+
+
