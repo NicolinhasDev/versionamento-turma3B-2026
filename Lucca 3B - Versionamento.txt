@@ -1,0 +1,104 @@
+Versionamento de Código é o processo de registrar, acompanhar e gerenciar alterações em arquivos de um programa ao longo do tempo.
+
+ferramentas e conceitos usados durante o Varsionamento são as seguintes:
+
+GIT, Branches (ramificações) e Repositórios na nuvem.
+
+Controle de versão ( Arquitetura )
+
+Centralizado, ou seja, um unico servidor guarda TODAS as versões do projeto
+o histórico permanece no servidor principal, se ele cair ninguém consegue enviar alterações ou colaborar com ele.
+
+Distribuído, cada pessoa tem uma cópia do Repositório no próprio computador, isso inclui o histórico de mudanças, não necessitando uma conexão constante com um servidor para trabalhar.
+
+
+
+Repositório ( Hospedagem e acesso )
+
+Local, Permanece salvo em seu computador, apenas você edita, rápido e só você vê
+
+Remoto, um time inteiro pode acessar, é necessário sincronizar as alterações, possui Backups, fica 24/7 Online
+
+
+
+
+Usando o GIT ( Distribuído )
+
+o GIT é um sistema de controle de versão, que usa o Metodo Distribuído, ou seja, possibilita que cada um possua uma cópia do Repositório.
+
+o comando "GIT Clone "url do repositório", faz o que o nome Sugere, Copia o Repositório ao seu computador, no local selecionado onde você abriu o GIT
+
+uma das principais ações usadas no GIT é o Commit, onde salva alterações feitas de forma permanente 
+
+
+Exemplo de um Commit:
+
+Commit: A7F8D9E | < ID Único
+Author: João Silva | < Quem fez o Commit
+Date: 2024-07-20, 13:30:42 | < Quando o Commit foi feito
+Message: "Adicionar validação CPF" | < Mensagem escrita pelo Autor do Commit, No geral o Porquê o commit foi feito.
+Changes | < O quê foi alterado 
+
++ Function validaCPF(CPF) {
++	Return CPF.length === 11
++}
+
+
+como preparar um commit?
+
+- GIT ADD -> Adiciona os arquivos na fila
+- GIT COMMIT -M " "  -> Primeiro commit criado com mensagem
+- GIT PUSH -> Envia o commit, ou seja, envia as atualizações do repositório local para o remoto.
+- GIT PULL -> Puxa as atualizações do Remoto para o Local
+
+
+Branches:
+
+Branches são linhas de cógidos paralelas do código inicial, ou seja, um "caminho separado" para se mexer no projeto, sem comprometer o inicial.
+
+exemplo pratico: Um projeto com login e cadastro funcionando.
+	--> Necessário desenvolvimento de pagamento
+
+MAIN:	A --------> B --------> E -------> F
+FEATURE-PAGAMENTO:   \----> C ----> D ----/
+
+
+Comandos dentro do GIT:
+
+- GIT branch ->  listar todas as branches ( a branch atual estará com um "*" ao lado )
+- GIT branch "nome" -> Cria uma nova Branch
+- GIT checkout "nome" -> Troca para a branch com o nome respectivo
+
+
+Tríade CIA ( Ou CID )
+
+Um modelo de segurança da informação que se forma por três pilares
+
+Confidencialidade ( Confidentiality ):
+
+- Garante sigilo de dados
+
+- Evita que pessoas sem permissões vejam as informações
+
+- Usa senhas e criptografia como barreiras
+
+
+Intregidade ( Integrity ):
+
+- Mantém os dados corretos e completos
+
+- Impede que arquivos sejam alterados por engano ou fraudes
+
+- Usa assinaturas digitais para verificar origem
+
+
+Disponibilidade ( Availability):
+
+- Assegura que os sistemas fiquem acessíveis
+
+- Garante o uso de dados a autorizados na hora certa.
+
+- Previne quedas de redes e ataques de negação de servi
+
+
+
