@@ -1,0 +1,47 @@
+VERSIONAMENTO DE CÓDIGOS 1° bimestre
+
+Git & Repositórios:
+  - Local (seu PC) vs Remoto (nuvem 24/7).
+  - Fluxo: git add (prepara) -> git commit -m (salva) -> git push (envia) / git pull (puxa).
+  - Estrutura do Commit: HASH (ID único), autor, data e mensagem.
+  - Rollback: Voltar o sistema para uma versão anterior.
+
+Branches (Ramificações):
+  - Desenvolvimento paralelo sem afetar a branch principal (main/master).
+  - Comandos: git branch (listar/criar), git checkout (trocar), merge (unir branches).
+
+Documentação (README.md):
+  - Resumo do projeto, instruções de uso e dependências necessárias.
+
+Integração Contínua (CI):
+  - Prática de integrar pequenas alterações de código frequentemente para evitar conflitos.
+  - Ciclo: Commit -> Build -> Test (automação via GitHub Actions, GitLab CI).
+
+  VERSIONAMENTO DE CÓDIGOS 2° bimestre
+
+  CI (Integração Contínua)
+- Troca o modelo artesanal por uma linha de montagem automatizada.
+- Ciclo: Commit -> Build -> Test.
+- Detecta erros em minutos.
+
+CD (Entrega Contínua)
+- Automatiza o envio do código testado para ambientes (DEV, QA, STAGING, PROD).
+- Disparado por gatilhos (triggers) nas branches; gera artefatos executáveis.
+
+SemVer (Versionamento Semântico)
+- Formato: MAJOR.MINOR.PATCH (ex: 1.2.4).
+- PATCH = bugfix / MINOR = nova função compatível / MAJOR = breaking change.
+
+GitFlow
+- main: código em produção.
+- develop: integração das novidades.
+- feature / release / hotfix: branches específicas para desenvolvimento, lançamento e emergências.
+
+Git Hooks
+- Scripts automáticos acionados no fluxo Git.
+- Cliente: pre-commit (lint/senhas), commit-msg.
+- Servidor: pre-receive (validação antes de aceitar o push).
+
+Webhooks
+- Notificação em tempo real (HTTP POST) do evento no pipeline (melhor que polling).
+- Segurança via Secret e assinatura HMAC-SHA256.
