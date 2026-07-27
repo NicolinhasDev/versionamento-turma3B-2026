@@ -1,0 +1,66 @@
+Aluno: Victor Monteiro
+
+Conceitos:
+
+Commit:
+Gravação de alterações no projeto feitas no repositório local na nuvem (git commit -m "mensagem").
+
+Push:
+Envio dos commits do repositório local para o repositório remoto.
+
+Pull:
+Recebimento das alterações do repositório remoto para o repositório local.
+
+Fetch:
+Busca as atualizações do repositório remoto sem sobrescrever automaticamente os dados locais.
+
+Clone:
+Download de uma branch do repositório remoto para o repositório local (git clone https...nome.git).
+
+Checkout:
+Troca entre branches.
+
+Merge:
+Junção de branches em um commit.
+
+Revert:
+Cria um novo commit que desfaz as alterações introduzidas por um commit anterior (git revert Id_commit).
+
+Deploy:
+Processo de publicar a aplicação (github pages).
+
+Logs:
+Registros e históricos de commits (git log -> commit id, branch, autor, mensagem, etc).
+
+Secrets:
+Variáveis de ambiente armazenadas no repositório remoto (chave API).
+
+.gitignore:
+Arquivo que especifica arquivos ou pastas que não serão consideradas pelo git (.gitignore -> node_modules).
+
+Colaboradores:
+Pessoas que possuem acesso para contribuir no repositório.
+
+Terminologias de commit ("..." para especificar):
+feat: Adição de novas funcionalidades.
+fix: Correção de bugs.
+docs: Alterações na documentação.
+refactor: Reestruturação do código sem alteração.
+chore: Outras alterações.
+
+Outros:
+
+/docs:
+Pasta padrão para arquivos de documentação do projeto.
+
+Github Pages:
+Serviço de hospedagem de sites do github.
+
+Discussões:
+Fórum de discussões do github.
+
+Readme:
+Arquivo de apresentação/introdução principal do projeto.
+
+Dependências:
+Bibliotecas e frameworks necessários para o funcionamento do projeto.
