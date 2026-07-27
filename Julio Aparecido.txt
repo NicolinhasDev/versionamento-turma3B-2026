@@ -1,0 +1,1 @@
+Lembro clonar um repositorio pelo terminal (git clone) e puxar, enviar e atualizar um repositorio pelo terminal (git clone/pull/commit)
