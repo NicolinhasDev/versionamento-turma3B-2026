@@ -1,0 +1,37 @@
+1 bimestre base do git
+
+git add: você separa e prepara os arquivos que quer salvar.
+
+git commit -m "mensagem": você tira uma "foto" oficial do código com um recado explicando o que mudou. Cada alteração ganha um HASH (um código de identificação único), além de registrar quem fez e quando.
+
+git push / git pull: você envia suas alterações para a nuvem ou puxa o que os outros colegas fizeram.
+
+Segurança (Rollback): Se algo der errado, é possível voltar o sistema inteiro para uma versão anterior estável sem perder os cabelos.
+
+Branches (Ramificações): Permitem criar caminhos paralelos no código. Você pode testar uma nova ideia sem quebrar a versão principal (main ou master). Usamos git branch para listar/criar, git checkout para trocar de branch e o merge para juntar tudo no fim.
+
+Documentação (README.md): O cartão de visitas do projeto. É o arquivo onde você explica o que o sistema faz, como rodá-lo e quais são as dependências.
+
+Primeiros passos em CI: A ideia de juntar pequenos pedaços de código com frequência para evitar aquela dor de cabeça monstruosa de conflitos no final do projeto.
+
+2° Bimestre: Automação, Padrões e Fluxos Avançados
+
+CI (Integração Contínua): Sai o trabalho manual e entra uma "linha de montagem" automatizada. Cada commit passa por um ciclo de Build (construção) e Test (testes automatizados via GitHub Actions ou GitLab CI), avisando se há erros em questão de minutos.
+
+CD (Entrega Contínua): Pega aquele código já testado e o envia automaticamente para os ambientes de testes ou produção (DEV, QA, STAGING, PROD), utilizando gatilhos e gerando os pacotes prontos para rodar.
+
+SemVer (Versionamento Semântico): A forma padronizada de nomear as versões dos softwares no formato MAJOR.MINOR.PATCH (ex: 1.2.4):
+
+PATCH: Correção de bugs.
+
+MINOR: Nova função adicionada (sem quebrar o que já funcionava).
+
+MAJOR: Mudança grande que quebra a compatibilidade com versões anteriores.
+
+GitFlow (A Organização do Time): Uma estratégia oficial de divisão de branches:
+
+main: O código que está rodando de verdade para o usuário final (produção).
+
+develop: Onde as novas funções se encontram para testes.
+
+feature, release, hotfix: Branches temporárias usadas para criar novas funções, preparar lançamentos ou corrigir emergências rapidamente.
