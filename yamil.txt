@@ -1,0 +1,11 @@
+Do que eu lembro do Versionamento de Códigos 1º Bimestre:
+
+O Git controla as versões de um projeto. Os principais comandos são git add,
+git commit, git push e git pull. As branches permitem desenvolver sem alterar
+a versão principal, e o README.md explica o projeto.
+
+Do que eu lembro do Versionamento de Códigos 2º Bimestre:
+
+A CI automatiza testes do código e a CD automatiza a entrega do projeto. O
+GitFlow organiza as branches (main, develop, feature, release e hotfix),
+e os Git Hooks executam verificações automáticas para evitar erros.
