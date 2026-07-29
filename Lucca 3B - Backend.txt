@@ -1,0 +1,20 @@
+O Backend são os bastidores do desenvolvimento de um sistema:
+Servidores, Bancos de Dados e lógica.
+
+Tecnologias comuns dentre a área são linguagens de programação (JavaScript / Node.js), Python, Java e PHP) e a comunicação e transporte dentre a rede (TCP/IP, HTTP e HTTPS,).
+
+muitos conceitos são explorados também como exemplo:
+
+-> APIs - Conjunto de regras e ferramentas que permitem comunicar entre os diferentes temas dentro do software em si, funcionando como uma ponto ou intermediador.
+=> Tipos de API:
+
+-> REST - Utiliza HTTP para comunicação, com os recursos separados em URLs únicas
+
+-> SOAP - Protocolo Antigo que define um padrão para troca de mensagens em formato XMC/XML
+
+-> GraphQL - Desenvolvida pelo facebook, permite consultar exatamente os dados solicitados, para reduzir a quantidadae de dados transferidos
+
+
+-> Monólito - É uma arquitetura cuja todas as funções do sistemas são desenvolvidas e executadas em uma única base de código unificado
+
+
