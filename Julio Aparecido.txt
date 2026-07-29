@@ -1,5 +1,5 @@
-Versionamento de Codigo:
-Lembro clonar um repositorio pelo terminal (git clone) e puxar, enviar e atualizar um repositorio pelo terminal (git clone/pull/commit)
+Versionamento de Código:
+Lembro como clonar um repositório pelo terminal (git clone), atualizar projetos com git pull, registrar alterações utilizando git commit e enviar arquivos para o repositório remoto com git push. Também compreendo a importância do controle de versões para organizar o desenvolvimento.
 
 Back-End:
-Lembro o básico de php, configurar o vs studio, conectar o front com o back e o banco, alguns tipo de estrutura como mvp e sobre api.
+Lembro o básico de PHP, configurar o Visual Studio Code, conectar o front-end ao back-end e ao banco de dados, conhecer a estrutura MVP e entender conceitos básicos sobre APIs.
