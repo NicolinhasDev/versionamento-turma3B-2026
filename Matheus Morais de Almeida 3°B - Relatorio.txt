@@ -33,3 +33,29 @@ MAIN / MASTER - Código que está rodando (o aplicativo que usa).
 
 
 
+
+Relatorio de Back-End.
+
+O que eu lembro:
+
+O que é Back-End
+
+O Back-end é a parte de um sistema ou site que fica nos bastidores. Ele cuida do servidor, do banco de dados e da lógica do sistema, processando as informações que o usuário não vê diretamente.
+
+APIs - Os "caminhos" que permitem que o que você vê no celular converse com o servidor.
+Linguagens de programação -  Ferramentas usadas para escrever o código do servidor, como Python, Node.js (JavaScript), Java e PHP.
+
+comandos:
+
+SELECT -  Busca dados guardados.
+INSERT - Salva novos dados.
+UPDATE - Atualiza dados existentes.
+DELETE - Apaga informações. 
+
+
+
+REST (Representational State Transfer): O modelo mais usado na web atual por ser leve e flexível. Usa o protocolo HTTP e troca dados principalmente em formato JSON.
+
+GraphQL: Criado pelo Facebook, permite que o cliente peça exatamente os dados que precisa, nem mais, nem menos. Evita requisições repetidas.
+
+SOAP (Simple Object Access Protocol): Um modelo mais antigo, rígido e altamente seguro. Usa o formato XML e é muito comum em sistemas bancários e governamentais. 
