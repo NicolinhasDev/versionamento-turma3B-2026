@@ -9,3 +9,36 @@ Do que eu lembro do Versionamento de Códigos 2º Bimestre:
 A CI automatiza testes do código e a CD automatiza a entrega do projeto. O
 GitFlow organiza as branches (main, develop, feature, release e hotfix),
 e os Git Hooks executam verificações automáticas para evitar erros.
+
+
+
+Do que eu lembro do Back-End 1º Bimestre:
+
+O MVC divide o sistema em Model, View e Controller. Os sistemas podem ser 
+Monolíticos (tudo junto) ou de Microsserviços (serviços separados).
+
+Os bancos de dados podem ser SQL (tabelas) ou NoSQL (mais flexível).
+
+O TCP/IP organiza a comunicação da internet, e o HTTPS é a versão
+segura do HTTP.
+
+As APIs conectam sistemas e usam o CRUD para criar, consultar,
+atualizar e excluir dados. Os principais tipos são REST, SOAP 
+e GraphQL.
+
+Os principais códigos HTTP são: 200 (sucesso), 403 (proibido),
+404 (não encontrado) e 500 (erro no servidor).
+
+Do que eu lembro do Back-End 2º Bimestre:
+
+Nas aulas de Back-end, aprendi a diferença entre Monolito e
+Microsserviços. Também estudei APIs REST, usando os métodos GET,
+POST, PUT e DELETE para manipular dados em JSON.
+
+Aprendi sobre o banco MongoDB (NoSQL) e como fazer operações de 
+CRUD com Python. Também vimos segurança com hash de senhas e
+autenticação em dois fatores (2FA).
+
+Além disso, estudamos Docker para criar containers, TDD para
+desenvolver com testes e ferramentas como RabbitMQ e Kafka
+para comunicação entre sistemas.
