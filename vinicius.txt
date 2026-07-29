@@ -9,3 +9,13 @@ Commit (git commit): É como se você estivesse dando um "salvar jogo" (savegame
 Branch (Ramificação): É uma linha de desenvolvimento paralela. Permite adicionar novas funcionalidades ou realizar testes sem comprometer a versão principal do código (main ou master).
 
 git push / git pull: push envia suas modificações locais para o repositório remoto (como o GitHub), enquanto pull obtém as atualizações do repositório para o seu computador.
+
+de Back-End, eu lembro de:
+
+A gente começou a entender como a "mágica" do lado do servidor funciona. Se o Front-End é a interface que o usuário vê e clica, o Back-End é tudo o que roda por trás: o processamento das regras de negócio, a segurança e a comunicação com o banco de dados. Aprendemos a construir APIs (interfaces para os sistemas conversarem) e a organizar nosso projeto usando arquiteturas bem estruturadas.
+
+Alguns dos conceitos, nomenclaturas e comandos que eu me recordo são:
+
+Node.js e Express: O Node.js é o ambiente que permite rodar JavaScript no servidor, e o Express é o framework leve que usamos para criar nossas rotas e gerenciar requisições de forma rápida.
+
+API REST / RESTful: O padrão de arquitetura que usamos para organizar as rotas da nossa aplicação, permitindo a troca de dados (geralmente em formato JSON).
