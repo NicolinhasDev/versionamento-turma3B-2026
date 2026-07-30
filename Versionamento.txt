@@ -1,0 +1,128 @@
+NOME:Nicollas Cavalcanti
+Serie: 3°B
+
+
+Relatório de Versionamento de Código
+O que é Versionamento de Código
+
+O versionamento de código é o processo de controlar e acompanhar todas as alterações feitas nos arquivos de um projeto de software durante seu desenvolvimento.
+
+Ele funciona como uma espécie de diário de bordo do projeto, registrando cada mudança feita, quem realizou a alteração, quando ela foi feita e o que foi modificado no código.
+
+Com o versionamento é possível voltar para versões antigas do projeto, corrigir erros e organizar melhor o desenvolvimento de sistemas.
+
+Repositório
+
+O repositório é o local onde o Git armazena todos os arquivos de um projeto, junto com todo o histórico das alterações realizadas.
+
+Ele guarda as versões do código e permite acompanhar a evolução do projeto.
+
+GitHub
+
+O GitHub é uma plataforma online que permite armazenar códigos e arquivos de projetos na nuvem utilizando o sistema de controle de versão Git.
+
+Ele facilita o compartilhamento de projetos, trabalho em equipe e criação de backups dos códigos.
+
+Repositório Local
+
+O repositório local fica armazenado diretamente no computador do desenvolvedor.
+
+É nele que o código é criado, alterado e testado. Ele pode funcionar sem internet, pois todos os arquivos e históricos ficam salvos na máquina.
+
+Repositório Remoto
+
+O repositório remoto fica armazenado em servidores online ou redes internas, como GitHub, GitLab ou Bitbucket.
+
+Ele serve para compartilhar o código com outras pessoas, manter uma versão oficial do projeto e realizar backups.
+
+Principais comandos do Git
+Commit
+
+O commit serve para salvar uma alteração feita no projeto. Ele cria um registro daquela versão do código, mostrando o que foi alterado e quando foi salvo.
+
+Push
+
+O push é usado para enviar as alterações que estão no repositório local para o repositório remoto, como o GitHub.
+
+Pull
+
+O pull faz o contrário do push. Ele busca as atualizações que estão no repositório remoto e traz para o repositório local.
+
+Git
+
+O Git é um sistema de controle de versão que registra todas as alterações feitas em um projeto.
+
+Ele mostra informações como:
+
+Quem fez a alteração;
+Quando foi feita;
+O que foi modificado no código.
+Git Clone
+
+O Git Clone cria uma cópia de um repositório existente para o computador local.
+
+Ele permite baixar um projeto que está no GitHub ou outro servidor para continuar o desenvolvimento.
+
+Git Add
+
+O Git Add adiciona os arquivos modificados para uma área de preparação antes de realizar um commit.
+
+Ele informa ao Git quais alterações devem ser salvas na próxima versão.
+
+Git Push
+
+O Git Push envia os commits feitos localmente para o repositório remoto.
+
+Git Pull
+
+O Git Pull atualiza o projeto local trazendo as mudanças que foram feitas no repositório remoto.
+
+Git Branch
+
+O Git Branch cria uma nova linha de desenvolvimento dentro do projeto.
+
+Ele permite trabalhar em novas funcionalidades ou testes sem alterar diretamente o código principal.
+
+Branch
+
+A Branch é uma versão separada do desenvolvimento de um projeto.
+
+Ela permite que várias alterações sejam feitas de forma independente e depois sejam juntadas ao código principal quando estiverem prontas.
+
+Main / Master
+
+A Main ou Master é a branch principal do projeto.
+
+Normalmente representa a versão mais estável do código, sendo a versão que será utilizada pelo aplicativo ou sistema.
+
+Coisas que aprendi pesquisando sozinho
+Git Actions
+
+O Git Actions é uma ferramenta do GitHub que permite automatizar tarefas dentro de um projeto.
+
+Com ele é possível criar processos automáticos como:
+
+Testar o código sempre que uma alteração é enviada;
+Fazer o deploy automático de aplicações;
+Verificar erros antes de colocar uma nova versão no projeto;
+Automatizar tarefas repetitivas.
+
+Ele funciona através de arquivos de configuração chamados workflows, que definem quais ações devem ser executadas.
+
+Deploy automático
+
+Aprendi que é possível configurar o GitHub para enviar automaticamente uma nova versão do projeto para um servidor quando ocorre um push.
+
+Isso facilita a atualização de sites e aplicações sem precisar fazer todo o processo manualmente.
+
+Fork
+
+O Fork é uma cópia de um repositório de outra pessoa criada dentro da própria conta.
+
+Ele permite modificar um projeto sem alterar o original e depois enviar sugestões através de um Pull Request.
+
+Pull Request
+
+O Pull Request é uma solicitação para juntar alterações de uma branch ou fork ao projeto principal.
+
+Ele permite revisar o código antes de adicionar novas mudanças ao sistema.
