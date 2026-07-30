@@ -1,0 +1,48 @@
+--------------Versionamento de Código?
+
+Ele guarda o histórico de tudo o que muda no código, quem mudou e quando.
+
+Git: A ferramenta que registra todas as alterações e historicos direto na sua máquina.
+
+Repositório: A pasta onde o projeto e todo o histórico ficam guardados.
+
+Local: No seu computador.
+
+Remoto: Na nuvem (ex: GitHub), usado para a equipe toda acessar.
+
+GitHub: A plataforma na nuvem que hospeda seus códigos usando o Git.
+
+Branch: Uma cópia para você testar coisas sem estragar o oficial.
+
+Main / Master: A versão principal e oficial do código.
+
+Git Clone: Baixa uma cópia inteira de um repositório remoto para o seu PC.
+
+Git Add: Prepara os arquivos que você modificou para serem salvos.
+
+Commit: Salva oficialmente as alterações preparadas.
+
+Git Push: Sobe os seus commits locais para o repositório remoto (na nuvem).
+
+Git Pull: Puxa e atualiza o seu computador com o que está lá no repositório remoto.
+
+Git Branch: Cria um branch no projeto.
+
+-------------Back-End?
+
+são os bastidores: servidores, regras de negócio, segurança e banco de dados.
+
+Tecnologias e Ferramentas
+Node.js: Permite rodar JavaScript fora do navegador, direto no servidor.
+
+Express: Um framework leve para Node.js que facilita a criação de rotas e o gerenciamento de requisições.
+
+Linguagens comuns: JavaScript/Node.js, Python, Java e PHP.
+
+Rede: Oque faz a internet funcionar (TCP/IP, HTTP e HTTPS).
+
+O que é uma API?
+
+É semelhante a uma ponte que permite dois softwares a conversarem entre si.
+
+Monólito: Em vez de dividir a aplicação em partes que conversam pela rede, todas as funcionalidades (como cadastro, pagamentos e relatórios) vivem juntas no mesmo projeto e rodam no mesmo processo.
