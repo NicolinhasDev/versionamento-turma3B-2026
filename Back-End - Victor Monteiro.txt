@@ -1,0 +1,41 @@
+Aluno: Victor Monteiro
+
+Conceitos:
+
+API:
+Conjunto de regras e definições que permite a integração e comunicação entre diferentes sistemas ou softwares.
+
+Endpoints:
+URLs de API que o cliente acessa para realizar operações (CRUD).
+
+Microserviços:
+Arquitetura onde uma aplicação é desenvolvida como uma coleção de serviços pequenos e independentes, cada um executando um processo específico e se ligando por APIs.}
+
+MVC (Model-View-Controller):
+Estrutura de organização de código com separação de funcionalidades.
+
+Métodos HTTP:
+Comandos HTTP utilizados para requisições de APIs (GET, POST, DELETE).
+
+Modularização:
+Divisão do código em processos menores e independentes.
+
+Node.js:
+Ambiente de execução JavaScript de código aberto no lado do servidor.
+
+Python no Back-End:
+Linguagem utilizada no desenvolvimento back-end, adaptável e legível.
+
+Outros:
+
+npm:
+Gerenciador de pacotes do Node.js para instalar e gerenciar dependências (npm install, npm run dev, npm build).
+
+pip:
+Gerenciador de pacotes do Python para instalar bibliotecas externas (pip install).
+
+venv:
+Ambiente virtual isolado em projetos Python (python -m venv venv).
+
+requests:
+Biblioteca do Python para enviar requisições HTTP simples.
