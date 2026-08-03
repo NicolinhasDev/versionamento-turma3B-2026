@@ -1,0 +1,3 @@
+Versionamento de Código: Domínio dos comandos Git (clone, pull, commit e push) e entendimento da importância do controle de versão para a organização do 
+
+desenvolvimento.Back-End: Conhecimento básico em PHP e configuração do VS Code, com capacidade de conectar o front-end ao back-end e ao banco de dados, além de noções sobre estrutura MVP e APIs.
